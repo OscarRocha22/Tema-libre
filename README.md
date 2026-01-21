@@ -6,3 +6,36 @@ Nuestro universo esta compuesto por 70% energia oscura, 25% materia oscura y 5% 
 
 ---
 
+## Planetas
+
+---
+
+## Satélites
+
+---
+
+## Cometas
+
+---
+
+## Asteroides
+
+---
+
+## Estrellas
+
+---
+
+## Galaxias
+
+---
+
+## Nebulosas
+
+---
+
+## Super Nova
+
+---
+
+## Agujero Negro
