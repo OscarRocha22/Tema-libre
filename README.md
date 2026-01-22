@@ -38,7 +38,7 @@ Los cometas son grandes objetos compuestos de polvo y hielo que orbitan alrededo
 
 Los asteroides, a veces llamados planetas menores, son restos rocosos que quedaron de la formación inicial de nuestro sistema solar hace unos 4.600 millones de años. A julio de 2021, el recuento de asteroides conocidos era 1.097.148. Los asteroides varían en tamaño desde Vesta, el más grande, con alrededor de 530 kilómetros de diámetro, hasta cuerpos que tienen menos de 10 metros de ancho. La masa total de todos los asteroides combinados es menor que la de nuestra Luna.
 
-<img src="https://ciencia.nasa.gov/wp-content/uploads/sites/2/2023/06/777_PIA00135-jpg.webp" width="450">
+<img src="https://ciencia.nasa.gov/wp-content/uploads/sites/2/2023/06/777_PIA00135-jpg.webp" width="1250" height="840">
 
 ---
 
