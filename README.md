@@ -22,7 +22,7 @@ Nuestro universo esta compuesto por 70% energia oscura, 25% materia oscura y 5% 
 
 Es cualquier cuerpo que orbita alrededor de un planeta, o también de un planeta enano. Es más pequeño que el planeta y le acompaña en su traslación alrededor del Sol. Se llaman naturales en contraposición a los artificiales, que son objetos que orbitan la Tierra, la Luna y otros planetas y que los ha fabricado el ser humano. De los ocho planetas, todos tienen satélites menos Mercurio y Venus. Se caracterizan por no tener luz propia ya que reflejan la luz de la estrella más cercana.
 
-<img src="https://humanidades.com/wp-content/uploads/2018/09/Luna-satelite-natural-min-e1537143768179.jpg" width="1250" height="740">
+<img src="https://humanidades.com/wp-content/uploads/2018/09/Luna-satelite-natural-min-e1537143768179.jpg" width="1250" height="540">
 
 ---
 
@@ -30,7 +30,7 @@ Es cualquier cuerpo que orbita alrededor de un planeta, o también de un planeta
 
 Los cometas son grandes objetos compuestos de polvo y hielo que orbitan alrededor del Sol. Mejor conocidos por sus colas largas y ondulantes. A medida que el polvo y los gases se alejan del núcleo, la luz solar y las partículas procedentes del Sol los empujan hacia una cola brillante que se extiende detrás del cometa por millones de millas.
 
-<img src="https://muyinteresante.okdiario.com/wp-content/uploads/sites/5/2022/10/13/6347f797088a1.jpeg" width="1250" height="740">
+<img src="https://muyinteresante.okdiario.com/wp-content/uploads/sites/5/2022/10/13/6347f797088a1.jpeg" width="1250" height="540">
 
 ---
 
@@ -38,7 +38,7 @@ Los cometas son grandes objetos compuestos de polvo y hielo que orbitan alrededo
 
 Los asteroides, a veces llamados planetas menores, son restos rocosos que quedaron de la formación inicial de nuestro sistema solar hace unos 4.600 millones de años. A julio de 2021, el recuento de asteroides conocidos era 1.097.148. Los asteroides varían en tamaño desde Vesta, el más grande, con alrededor de 530 kilómetros de diámetro, hasta cuerpos que tienen menos de 10 metros de ancho. La masa total de todos los asteroides combinados es menor que la de nuestra Luna.
 
-<img src="https://ciencia.nasa.gov/wp-content/uploads/sites/2/2023/06/777_PIA00135-jpg.webp" width="1250" height="740">
+<img src="https://ciencia.nasa.gov/wp-content/uploads/sites/2/2023/06/777_PIA00135-jpg.webp" width="1250" height="540">
 
 ---
 
