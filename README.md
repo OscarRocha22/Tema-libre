@@ -8,9 +8,11 @@ Nuestro universo esta compuesto por 70% energia oscura, 25% materia oscura y 5% 
 
 ## Planetas
 
-Debe orbitar alrededor de una estrella.
-Debe ser lo suficientemente grande para tener suficiente gravedad para obligarlo a adoptar una forma esférica.
-Debe ser lo suficientemente grande como para que su gravedad haya eliminado cualquier otro objeto de tamaño similar cerca de su órbita alrededor del Sol.
+- Debe orbitar alrededor de una estrella.
+
+- Debe ser lo suficientemente grande para tener suficiente gravedad para obligarlo a adoptar una forma esférica.
+  
+- Debe ser lo suficientemente grande como para que su gravedad haya eliminado cualquier otro objeto de tamaño similar cerca de su órbita alrededor del Sol.
 
 <img src="https://concepto.de/wp-content/uploads/2019/04/cinturon-de-asteroides.png">
 
