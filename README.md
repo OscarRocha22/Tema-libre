@@ -44,17 +44,13 @@ Los asteroides, a veces llamados planetas menores, son restos rocosos que quedar
 
 ## Estrellas ⭐
 
+Las estrellas son bolas gigantes de gas caliente, principalmente hidrógeno, con algo de helio y pequeñas cantidades de otros elementos. Cada estrella tiene su propio ciclo de vida, que va desde unos pocos millones hasta billones de años, y sus propiedades cambian con el paso del tiempo. Las estrellas se forman en grandes nubes de gas y polvo llamadas nubes moleculares. Estas nubes moleculares tienen una masa que varía entre 1000 y 10 millones de veces mayor que la del Sol y pueden extenderse hasta cientos de años luz. Estas nubes son frías, lo que provoca que el gas se aglomere, creando bolsas de alta densidad.
+
+<img src="https://ciencia.nasa.gov/wp-content/uploads/sites/2/2024/04/sun.png" width="1250" height="540">
+
 ---
 
 ## Galaxias 🌌
-
----
-
-## Nebulosas ☁️
-
----
-
-## Super Nova 🌟
 
 ---
 
@@ -68,5 +64,6 @@ https://astronomiaparatodos.com/satelites-naturales/
 https://ciencia.nasa.gov/universo/que-es-la-energia-oscura/
 https://spaceplace.nasa.gov/comets/en/
 https://ciencia.nasa.gov/sistema-solar/que-es-un-asteroide/
+https://science.nasa.gov/universe/stars/
 
 
