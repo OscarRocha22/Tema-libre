@@ -1,4 +1,4 @@
-# El Universo
+# El Universo 🚀
 
 Nuestro universo esta compuesto por 70% energia oscura, 25% materia oscura y 5% materia ordinaria. Hace unos 13.800 millones de años, el universo comenzó a experimentar una rápida expansión que llamamos el Big Bang. Después de esta expansión inicial, que duró una fracción de segundo, la gravedad comenzó a desacelerar el universo. Con el paso del tiempo y la expansion del universo ciertas particulas evolucionaron a convertirse en las que conocemos hoy como es el caso del bosón de higgs.
 
@@ -6,7 +6,7 @@ Nuestro universo esta compuesto por 70% energia oscura, 25% materia oscura y 5% 
 
 ---
 
-## Planetas
+## Planetas 🪐
 
 - Debe orbitar alrededor de una estrella.
 
@@ -18,32 +18,36 @@ Nuestro universo esta compuesto por 70% energia oscura, 25% materia oscura y 5% 
 
 ---
 
-## Satélites
+## Satélites 🌕
 
 ---
 
-## Cometas
+## Cometas ☄️
 
 ---
 
-## Asteroides
+## Asteroides 🪨
 
 ---
 
-## Estrellas
+## Estrellas ⭐
 
 ---
 
-## Galaxias
+## Galaxias 🌌
 
 ---
 
-## Nebulosas
+## Nebulosas ☁️
 
 ---
 
-## Super Nova
+## Super Nova 🌟
 
 ---
 
-## Agujero Negro
+## Agujero Negro 🌌
+
+---
+
+## Referencias 👽📖
