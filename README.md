@@ -30,7 +30,7 @@ Es cualquier cuerpo que orbita alrededor de un planeta, o también de un planeta
 
 Los cometas son grandes objetos compuestos de polvo y hielo que orbitan alrededor del Sol. Mejor conocidos por sus colas largas y ondulantes. A medida que el polvo y los gases se alejan del núcleo, la luz solar y las partículas procedentes del Sol los empujan hacia una cola brillante que se extiende detrás del cometa por millones de millas.
 
-<img src="https://www.mdscc.nasa.gov/wp-content/uploads/2025/03/Cometa-2.jpg">
+<img src="https://muyinteresante.okdiario.com/wp-content/uploads/sites/5/2022/10/13/6347f797088a1.jpeg">
 
 ---
 
@@ -38,7 +38,7 @@ Los cometas son grandes objetos compuestos de polvo y hielo que orbitan alrededo
 
 Los asteroides, a veces llamados planetas menores, son restos rocosos que quedaron de la formación inicial de nuestro sistema solar hace unos 4.600 millones de años. A julio de 2021, el recuento de asteroides conocidos era 1.097.148. Los asteroides varían en tamaño desde Vesta, el más grande, con alrededor de 530 kilómetros de diámetro, hasta cuerpos que tienen menos de 10 metros de ancho. La masa total de todos los asteroides combinados es menor que la de nuestra Luna.
 
-<img src="https://ciencia.nasa.gov/wp-content/uploads/sites/2/2023/06/777_PIA00135-jpg.webp">
+<img src="https://ciencia.nasa.gov/wp-content/uploads/sites/2/2023/06/777_PIA00135-jpg.webp" width="450">
 
 ---
 
